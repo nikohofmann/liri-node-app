@@ -1,0 +1,67 @@
+Command: concert-this, Argument: the
+Venue: Bord Gáis Energy Theatre
+Location: Dublin, , Ireland
+Date & Time: 11/06/2018 19:30
+Command: concert-this, Argument: the ataris
+Command: concert-this, Argument: taylor swift
+Venue: ANZ Stadium
+Location: Sydney Olympic Park, , Australia
+Date & Time: 11/02/2018 20:00
+Command: concert-this, Argument: taylor swift
+Venue: ANZ Stadium
+Location: Sydney Olympic Park, , Australia
+Date & Time: 11/02/2018 20:00
+Command: concert-this, Argument: the ataris
+Command: concert-this, Argument: the ataris
+Command: concert-this, Argument: the ataris
+Command: concert-this, Argument: the ataris
+Command: concert-this, Argument: the ataris
+Command: concert-this, Argument: taylor swift
+Venue: ANZ Stadium
+Location: Sydney Olympic Park, , Australia
+Date & Time: 11/02/2018 20:00
+Command: concert-this, Argument: taylor swift
+Command: concert-this, Argument: the ataris
+Command: concert-this, Argument: the ataris
+No results found
+Command: concert-this, Argument: ariana grande
+No results found
+Command: concert-this, Argument: taking back sunday
+No results found
+Command: concert-this, Argument: taylor swift
+No results found
+Command: concert-this, Argument: taylor swift
+Venue: ANZ Stadium
+Location: Sydney Olympic Park, , Australia
+Date & Time: 11/02/2018 20:00
+Command: concert-this, Argument: taking back sunday
+Venue: Starland Ballroom
+Location: Sayreville, NJ, United States
+Date & Time: 12/14/2018 18:30
+Command: concert-this, Argument: taking back sunday
+Venue: Starland Ballroom
+Location: Sayreville, NJ, United States
+Date & Time: 12/14/2018 18:30
+Command: concert-this, Argument: taking back sunday
+Venue: Starland Ballroom
+Location: Sayreville, NJ, United States
+Date & Time: 12/14/2018 18:30
+Command: spotify-this-song, Argument: looking back on today
+Artist: The Ataris
+Track Name: Looking Back on Today
+Preview URL: https://p.scdn.co/mp3-preview/30b3b654f5da61fcf802d08452ff81f439224100?cid=a3deababf7254cec9f874c80082ee84e
+Album: So Long, Astoria
+Command: spotify-this-song, Argument: looking back on today
+Artist: The Ataris
+Track Name: Looking Back on Today
+Album: So Long, Astoria
+Preview URL: https://p.scdn.co/mp3-preview/30b3b654f5da61fcf802d08452ff81f439224100?cid=a3deababf7254cec9f874c80082ee84e
+Command: movie-this, Argument: scarface
+Title: Scarface
+Released: 1983
+IMDB Rating: 8.3/10
+Rotten Tomatoes Rating: 82%
+Plot: In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.
+Country: USA
+Actors: Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio
+Language: English, Spanish

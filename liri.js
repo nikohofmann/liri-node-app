@@ -10,7 +10,7 @@ var arguments = process.argv;
 
 var command = arguments[2].toLowerCase();
 
-var cmdArg = arguments[3];
+var cmdArg = arguments.slice(3).join(" ");
 
 function spotifyThis(cmdArg) {
 
@@ -33,11 +33,14 @@ function concertThis(cmdArg) {
 
     // If the request is successful (i.e. if the response status code is 200)
     if (!error && response.statusCode === 200) {
-
       var JS = JSON.parse(body);
-      logIt("Venue: " + JS[0].venue.name);
-      logIt("Location: " + JS[0].venue.city + ", " + JS[0].venue.region + ", " + JS[0].venue.country);
-      logIt("Date & Time: " + moment(JS[0].datetime).format("MM/DD/YYYY HH:mm"));
+      if (JS.venue !== "") {
+        logIt("Venue: " + JS[0].venue.name);
+        logIt("Location: " + JS[0].venue.city + ", " + JS[0].venue.region + ", " + JS[0].venue.country);
+        logIt("Date & Time: " + moment(JS[0].datetime).format("MM/DD/YYYY HH:mm"));
+      } else {
+        logIt("No results found");
+      }
     }
   });
 }
